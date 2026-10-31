@@ -1,0 +1,968 @@
+[00:02:01] [Render thread/INFO]: [System] [CHAT] [Sir_Schumacher: Teleported Sir_Schumacher to 1638.500000, 68.500000, 1363.500000]
+[00:02:01] [Server thread/INFO]: [Sir_Schumacher: Teleported Sir_Schumacher to 1638.500000, 68.500000, 1363.500000]
+[00:02:03] [Server thread/INFO]: Sir_Schumacher lost connection: Disconnected
+[00:02:03] [Server thread/INFO]: Sir_Schumacher left the game
+[00:02:03] [Render thread/INFO]: [System] [CHAT] Sir_Schumacher left the game
+[00:02:17] [DefaultDispatcher-worker-17/INFO]: Creating server-side ICE agent at request from 6a735970-1b55-4cd7-9b5e-9a918c68badb (ufrag: essential-q-bcb2538a, pwd: 849902fc90965e93ad889d814d741302)
+[00:02:17] [DefaultDispatcher-worker-17/INFO]: [11] Starting connection between GamboCarambo (f98b4a7c-e282-4817-b514-e2b8534d12b3) and Sir_Schumacher (6a735970-1b55-4cd7-9b5e-9a918c68badb), we are the server
+[00:02:17] [DefaultDispatcher-worker-17/INFO]: [11] Using QUIC because both parties support it.
+[00:02:18] [User Authenticator #6/INFO]: UUID of player Sir_Schumacher is 6a735970-1b55-4cd7-9b5e-9a918c68badb
+[00:02:18] [Netty Server IO ICE #12/INFO]: Sending general config values to client
+[00:02:18] [Netty Server IO ICE #12/INFO]: Sending items config values to client
+[00:02:18] [Netty Server IO ICE #12/INFO]: Sending client config values to client
+[00:02:19] [Server thread/INFO]: Sir_Schumacher[local:E:8775b949] logged in with entity id 217962 at (1638.5, 68.0, 1363.5)
+[00:02:19] [Server thread/INFO]: Sir_Schumacher joined the game
+[00:02:19] [Render thread/INFO]: [System] [CHAT] Sir_Schumacher joined the game
+[00:02:19] [Server thread/INFO]: Sending 1 network capability to Sir_Schumacher
+[00:02:20] [Server thread/INFO]: Received 1 capability from Sir_Schumacher
+[00:02:21] [Server thread/INFO]: Sir_Schumacher suffocated in a wall
+[00:02:21] [Render thread/INFO]: [System] [CHAT] Sir_Schumacher suffocated in a wall
+[00:02:22] [Server thread/INFO]: [GamboCarambo: Teleported Sir_Schumacher to GamboCarambo]
+[00:02:22] [Render thread/INFO]: [System] [CHAT] Teleported Sir_Schumacher to GamboCarambo
+[00:02:28] [Server thread/INFO]: [GamboCarambo: Teleported Sir_Schumacher to GamboCarambo]
+[00:02:28] [Render thread/INFO]: [System] [CHAT] Teleported Sir_Schumacher to GamboCarambo
+[00:02:41] [Server thread/INFO]: <GamboCarambo> xaero-waypoint:Base:B:1637:68:1350:3:false:0:Internal-overworld
+[00:02:41] [Render thread/INFO]: [System] [CHAT] GamboCarambo shared a waypoint called "Base" from overworld! [Add]
+[00:02:45] [Server thread/INFO]: [Sir_Schumacher: Teleported Sir_Schumacher to 1638.500000, 68.500000, 1363.500000]
+[00:02:45] [Render thread/INFO]: [System] [CHAT] [Sir_Schumacher: Teleported Sir_Schumacher to 1638.500000, 68.500000, 1363.500000]
+[00:02:57] [Server thread/INFO]: Sir_Schumacher suffocated in a wall
+[00:02:57] [Render thread/INFO]: [System] [CHAT] Sir_Schumacher suffocated in a wall
+[00:03:11] [Server thread/INFO]: [Sir_Schumacher: Teleported Sir_Schumacher to 1631.500000, 68.500000, 1350.500000]
+[00:03:11] [Render thread/INFO]: [System] [CHAT] [Sir_Schumacher: Teleported Sir_Schumacher to 1631.500000, 68.500000, 1350.500000]
+[00:03:12] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to 1637.500000, 68.500000, 1350.500000]
+[00:03:12] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to 1637.500000, 68.500000, 1350.500000
+[00:03:21] [DefaultDispatcher-worker-29/INFO]: [11] [192.168.100.137:62681 <> 190.171.102.170:58624] [Px95kkLDL44HS8mN] Nomination successful: /201.207.239.93:22162 (server-reflexive for /192.168.100.137:62681) -> /190.171.102.170:58624 (srflx)
+[00:03:21] [DefaultDispatcher-worker-29/INFO]: [11]  * /201.207.239.93:22162 (server-reflexive for /192.168.100.137:62681) -> /190.171.102.170:58624 (srflx) (4ms RTT)
+[00:03:21] [DefaultDispatcher-worker-29/INFO]: [11]    /201.207.239.93:22162 (server-reflexive for /192.168.100.137:62681) -> /40.160.66.10:57265 (relay) (144ms RTT)
+[00:03:21] [DefaultDispatcher-worker-29/INFO]: [11]    /40.160.66.10:62836 (relayed for /192.168.100.137:62681) -> /190.171.102.170:58624 (srflx) (151ms RTT)
+[00:03:21] [DefaultDispatcher-worker-29/INFO]: [11]    /40.160.66.10:62836 (relayed for /192.168.100.137:62681) -> /40.160.66.10:57265 (relay) (145ms RTT)
+[00:03:21] [DefaultDispatcher-worker-29/INFO]: [11]    /51.195.24.116:64287 (relayed for /192.168.100.137:62681) -> /190.171.102.170:58624 (srflx) (322ms RTT)
+[00:03:21] [DefaultDispatcher-worker-29/INFO]: [11]    /201.207.239.93:22162 (server-reflexive for /192.168.100.137:62681) -> /51.195.24.116:49169 (relay) (330ms RTT)
+[00:03:21] [DefaultDispatcher-worker-29/INFO]: [11]    /51.195.24.116:64287 (relayed for /192.168.100.137:62681) -> /51.195.24.116:49169 (relay) (331ms RTT)
+[00:03:21] [DefaultDispatcher-worker-29/INFO]: [11]    /51.195.24.116:64287 (relayed for /192.168.100.137:62681) -> /40.160.66.10:57265 (relay) (322ms RTT)
+[00:03:21] [DefaultDispatcher-worker-29/INFO]: [11]    /40.160.66.10:62836 (relayed for /192.168.100.137:62681) -> /51.195.24.116:49169 (relay) (329ms RTT)
+[00:03:21] [DefaultDispatcher-worker-29/INFO]: [11]    /201.207.239.93:22162 (server-reflexive for /192.168.100.137:62681) -> /15.235.229.89:54657 (relay) (576ms RTT)
+[00:03:21] [DefaultDispatcher-worker-29/INFO]: [11]    /51.195.24.116:64287 (relayed for /192.168.100.137:62681) -> /15.235.229.89:54657 (relay) (594ms RTT)
+[00:03:21] [DefaultDispatcher-worker-29/INFO]: [11]    /15.235.229.89:57363 (relayed for /192.168.100.137:62681) -> /15.235.229.89:54657 (relay) (569ms RTT)
+[00:03:21] [DefaultDispatcher-worker-29/INFO]: [11]    /15.235.229.89:57363 (relayed for /192.168.100.137:62681) -> /190.171.102.170:58624 (srflx) (566ms RTT)
+[00:03:21] [DefaultDispatcher-worker-29/INFO]: [11]    /201.207.239.93:22162 (server-reflexive for /192.168.100.137:62681) -> /51.161.174.239:63670 (relay) (628ms RTT)
+[00:03:21] [DefaultDispatcher-worker-29/INFO]: [11]    /15.235.229.89:57363 (relayed for /192.168.100.137:62681) -> /40.160.66.10:57265 (relay) (592ms RTT)
+[00:03:21] [DefaultDispatcher-worker-29/INFO]: [11]    /40.160.66.10:62836 (relayed for /192.168.100.137:62681) -> /15.235.229.89:54657 (relay) (577ms RTT)
+[00:03:21] [DefaultDispatcher-worker-29/INFO]: [11]    /15.235.229.89:57363 (relayed for /192.168.100.137:62681) -> /51.195.24.116:49169 (relay) (617ms RTT)
+[00:03:21] [DefaultDispatcher-worker-29/INFO]: [11]    /51.161.174.239:64608 (relayed for /192.168.100.137:62681) -> /190.171.102.170:58624 (srflx) (621ms RTT)
+[00:03:21] [DefaultDispatcher-worker-29/INFO]: [11]    /40.160.66.10:62836 (relayed for /192.168.100.137:62681) -> /51.161.174.239:63670 (relay) (557ms RTT)
+[00:03:21] [DefaultDispatcher-worker-29/INFO]: [11]    /51.161.174.239:64608 (relayed for /192.168.100.137:62681) -> /40.160.66.10:57265 (relay) (624ms RTT)
+[00:03:21] [DefaultDispatcher-worker-29/INFO]: [11]    /51.195.24.116:64287 (relayed for /192.168.100.137:62681) -> /51.161.174.239:63670 (relay) (741ms RTT)
+[00:03:21] [DefaultDispatcher-worker-29/INFO]: [11]    /51.161.174.239:64608 (relayed for /192.168.100.137:62681) -> /51.161.174.239:63670 (relay) (628ms RTT)
+[00:03:21] [DefaultDispatcher-worker-29/INFO]: [11]    /15.235.229.89:57363 (relayed for /192.168.100.137:62681) -> /51.161.174.239:63670 (relay) (715ms RTT)
+[00:03:21] [DefaultDispatcher-worker-29/INFO]: [11]    /51.161.174.239:64608 (relayed for /192.168.100.137:62681) -> /15.235.229.89:54657 (relay) (771ms RTT)
+[00:03:21] [DefaultDispatcher-worker-29/INFO]: [11]    /51.161.174.239:64608 (relayed for /192.168.100.137:62681) -> /51.195.24.116:49169 (relay) (817ms RTT)
+[00:03:39] [Render thread/INFO]: Reloading pipeline on dimension change: minecraft:overworld => minecraft:the_nether
+[00:03:39] [Render thread/INFO]: Destroying pipeline minecraft:overworld
+[00:03:39] [Render thread/INFO]: Creating pipeline for dimension minecraft:the_nether
+[00:03:40] [Render thread/WARN]: Failed to resolve uniform inSulfurCaves, reason: Unknown variable: BIOME_SULFUR_CAVES ( = FunctionCall{smooth {[Number{56}, FunctionCall{if {[FunctionCall{in {[Id{biome}, Id{BIOME_SULFUR_CAVES}]} }, Number{1}, Number{0}]} }, Number{15}, Number{15}]} })
+java.lang.RuntimeException: Unknown variable: BIOME_SULFUR_CAVES
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:225)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpressionInternal(ExpressionResolver.java:81)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:140)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:196)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpressionInternal(ExpressionResolver.java:81)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:140)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:127)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:196)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpressionInternal(ExpressionResolver.java:81)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:140)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:196)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpression(ExpressionResolver.java:50)
+	at knot//net.irisshaders.iris.uniforms.custom.CustomUniforms.<init>(CustomUniforms.java:60)
+	at knot//net.irisshaders.iris.uniforms.custom.CustomUniforms$Builder.build(CustomUniforms.java:332)
+	at knot//net.irisshaders.iris.uniforms.custom.CustomUniforms$Builder.build(CustomUniforms.java:343)
+	at knot//net.irisshaders.iris.pipeline.IrisRenderingPipeline.<init>(IrisRenderingPipeline.java:298)
+	at knot//net.irisshaders.iris.Iris.createPipeline(Iris.java:653)
+	at knot//net.irisshaders.iris.pipeline.PipelineManager.preparePipeline(PipelineManager.java:33)
+	at knot//net.minecraft.client.Minecraft.handler$bpl000$iris$resetPipeline(Minecraft.java:9694)
+	at knot//net.minecraft.client.Minecraft.updateLevelInEngines(Minecraft.java)
+	at knot//net.minecraft.client.Minecraft.setLevel(Minecraft.java:2257)
+	at knot//net.minecraft.client.multiplayer.ClientPacketListener.handleRespawn(ClientPacketListener.java:1294)
+	at knot//net.minecraft.network.protocol.game.ClientboundRespawnPacket.handle(ClientboundRespawnPacket.java:42)
+	at knot//net.minecraft.network.protocol.game.ClientboundRespawnPacket.handle(ClientboundRespawnPacket.java:9)
+	at knot//net.minecraft.network.PacketProcessor$ListenerAndPacket.handle(PacketProcessor.java:55)
+	at knot//net.minecraft.network.PacketProcessor.processQueuedPackets(PacketProcessor.java:38)
+	at knot//net.minecraft.client.Minecraft.runTick(Minecraft.java:1343)
+	at knot//net.minecraft.client.Minecraft.run(Minecraft.java:991)
+	at knot//net.minecraft.client.main.Main.main(Main.java:248)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+[00:03:41] [Render thread/INFO]: Stopping worker threads
+[00:03:41] [Render thread/INFO]: Started 10 worker threads
+[00:03:41] [Render thread/INFO]: Stopping worker threads
+[00:03:41] [Render thread/INFO]: Started 10 worker threads
+[00:03:41] [Render thread/INFO]: Minimap updated server level id: -1504144214 for world ResourceKey[minecraft:dimension / minecraft:the_nether]
+[00:03:41] [Render thread/WARN]: Error while parsing the block ID map entry for "block.10104":
+[00:03:41] [Render thread/WARN]: - The block minecraft:stone_slab has no property with the name variant, ignoring!
+[00:03:41] [Render thread/INFO]: Stopping worker threads
+[00:03:41] [Render thread/INFO]: Started 10 worker threads
+[00:03:48] [Server thread/INFO]: <ToToCr> xaero-waypoint:xp farm:X:2585:-17:1541:5:false:0:Internal-overworld
+[00:03:48] [Render thread/INFO]: [System] [CHAT] ToToCr shared a waypoint called "xp farm" from overworld! [Add]
+[00:04:26] [Render thread/INFO]: Reloading pipeline on dimension change: minecraft:the_nether => minecraft:overworld
+[00:04:26] [Render thread/INFO]: Destroying pipeline minecraft:the_nether
+[00:04:26] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to ToToCr]
+[00:04:26] [Render thread/INFO]: Creating pipeline for dimension minecraft:overworld
+[00:04:26] [Render thread/WARN]: Failed to resolve uniform inSulfurCaves, reason: Unknown variable: BIOME_SULFUR_CAVES ( = FunctionCall{smooth {[Number{56}, FunctionCall{if {[FunctionCall{in {[Id{biome}, Id{BIOME_SULFUR_CAVES}]} }, Number{1}, Number{0}]} }, Number{15}, Number{15}]} })
+java.lang.RuntimeException: Unknown variable: BIOME_SULFUR_CAVES
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:225)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpressionInternal(ExpressionResolver.java:81)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:140)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:196)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpressionInternal(ExpressionResolver.java:81)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:140)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:127)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:196)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpressionInternal(ExpressionResolver.java:81)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:140)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:196)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpression(ExpressionResolver.java:50)
+	at knot//net.irisshaders.iris.uniforms.custom.CustomUniforms.<init>(CustomUniforms.java:60)
+	at knot//net.irisshaders.iris.uniforms.custom.CustomUniforms$Builder.build(CustomUniforms.java:332)
+	at knot//net.irisshaders.iris.uniforms.custom.CustomUniforms$Builder.build(CustomUniforms.java:343)
+	at knot//net.irisshaders.iris.pipeline.IrisRenderingPipeline.<init>(IrisRenderingPipeline.java:298)
+	at knot//net.irisshaders.iris.Iris.createPipeline(Iris.java:653)
+	at knot//net.irisshaders.iris.pipeline.PipelineManager.preparePipeline(PipelineManager.java:33)
+	at knot//net.minecraft.client.Minecraft.handler$bpl000$iris$resetPipeline(Minecraft.java:9694)
+	at knot//net.minecraft.client.Minecraft.updateLevelInEngines(Minecraft.java)
+	at knot//net.minecraft.client.Minecraft.setLevel(Minecraft.java:2257)
+	at knot//net.minecraft.client.multiplayer.ClientPacketListener.handleRespawn(ClientPacketListener.java:1294)
+	at knot//net.minecraft.network.protocol.game.ClientboundRespawnPacket.handle(ClientboundRespawnPacket.java:42)
+	at knot//net.minecraft.network.protocol.game.ClientboundRespawnPacket.handle(ClientboundRespawnPacket.java:9)
+	at knot//net.minecraft.network.PacketProcessor$ListenerAndPacket.handle(PacketProcessor.java:55)
+	at knot//net.minecraft.network.PacketProcessor.processQueuedPackets(PacketProcessor.java:38)
+	at knot//net.minecraft.client.Minecraft.runTick(Minecraft.java:1343)
+	at knot//net.minecraft.client.Minecraft.run(Minecraft.java:991)
+	at knot//net.minecraft.client.main.Main.main(Main.java:248)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+[00:04:26] [Render thread/INFO]: Stopping worker threads
+[00:04:26] [Render thread/INFO]: Started 10 worker threads
+[00:04:26] [Render thread/INFO]: Stopping worker threads
+[00:04:26] [Render thread/INFO]: Started 10 worker threads
+[00:04:26] [Render thread/INFO]: Minimap updated server level id: -1504144214 for world ResourceKey[minecraft:dimension / minecraft:overworld]
+[00:04:26] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to ToToCr
+[00:04:26] [Render thread/WARN]: Error while parsing the block ID map entry for "block.10104":
+[00:04:26] [Render thread/WARN]: - The block minecraft:stone_slab has no property with the name variant, ignoring!
+[00:04:26] [Render thread/INFO]: Stopping worker threads
+[00:04:26] [Render thread/INFO]: Started 10 worker threads
+[00:05:18] [Render thread/INFO]: Resized a dynamic immediate buffer to 160!
+[00:05:18] [Render thread/INFO]: Resized a dynamic immediate buffer to 320!
+[00:05:20] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to 1637.500000, 68.500000, 1350.500000]
+[00:05:20] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to 1637.500000, 68.500000, 1350.500000
+[00:05:33] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.cod.ambient
+[00:05:59] [Render thread/INFO]: Loaded 693 advancements
+[00:06:11] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=1604, y=56, z=1370} BlockPos{x=1604, y=57, z=1370}
+[00:06:43] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to ToToCr]
+[00:06:43] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to ToToCr
+[00:13:17] [Render thread/INFO]: Loaded 694 advancements
+[00:21:29] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to Sir_Schumacher]
+[00:21:29] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to Sir_Schumacher
+[00:21:35] [Render thread/INFO]: Loaded 696 advancements
+[00:22:03] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to 2585.500000, -16.500000, 1541.500000]
+[00:22:03] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to 2585.500000, -16.500000, 1541.500000
+[00:24:07] [Server thread/INFO]: Sir_Schumacher lost connection: Disconnected
+[00:24:07] [Server thread/INFO]: Sir_Schumacher left the game
+[00:24:07] [Render thread/INFO]: [System] [CHAT] Sir_Schumacher left the game
+[00:27:36] [Server thread/INFO]: [ToToCr: Teleported ToToCr to 2581.500000, 91.500000, 1542.500000]
+[00:27:36] [Render thread/INFO]: [System] [CHAT] [ToToCr: Teleported ToToCr to 2581.500000, 91.500000, 1542.500000]
+[00:29:49] [Server thread/INFO]: [ToToCr: Teleported ToToCr to 2581.500000, 91.500000, 1542.500000]
+[00:29:49] [Render thread/INFO]: [System] [CHAT] [ToToCr: Teleported ToToCr to 2581.500000, 91.500000, 1542.500000]
+[00:30:30] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to 1637.500000, 68.500000, 1350.500000]
+[00:30:30] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to 1637.500000, 68.500000, 1350.500000
+[00:31:55] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to 2585.500000, -16.500000, 1541.500000]
+[00:31:55] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to 2585.500000, -16.500000, 1541.500000
+[00:33:42] [Server thread/INFO]: [GamboCarambo: Gave 50 [Oak Sign] to ToToCr]
+[00:33:42] [Render thread/INFO]: [System] [CHAT] Gave 50 [Oak Sign] to ToToCr
+[00:33:53] [Server thread/INFO]: [GamboCarambo: Gave 50 [Oak Sign] to GamboCarambo]
+[00:33:53] [Render thread/INFO]: [System] [CHAT] Gave 50 [Oak Sign] to GamboCarambo
+[00:35:20] [Server thread/INFO]: [GamboCarambo: Set own game mode to Creative Mode]
+[00:35:20] [Render thread/INFO]: [System] [CHAT] Set own game mode to Creative Mode
+[00:37:40] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to ToToCr]
+[00:37:40] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to ToToCr
+[00:39:37] [Server thread/INFO]: [GamboCarambo: Set own game mode to Survival Mode]
+[00:39:37] [Render thread/INFO]: [System] [CHAT] Set own game mode to Survival Mode
+[00:42:23] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to ItezaNoRajin]
+[00:42:23] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to ItezaNoRajin
+[00:42:27] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to ToToCr]
+[00:42:27] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to ToToCr
+[00:42:38] [Server thread/INFO]: [GamboCarambo: Teleported ItezaNoRajin to GamboCarambo]
+[00:42:38] [Render thread/INFO]: [System] [CHAT] Teleported ItezaNoRajin to GamboCarambo
+[00:43:44] [Server thread/INFO]: [GamboCarambo: Set ToToCr's game mode to Spectator Mode]
+[00:43:44] [Render thread/INFO]: [System] [CHAT] Set ToToCr's game mode to Spectator Mode
+[00:44:25] [Server thread/INFO]: [GamboCarambo: Set ToToCr's game mode to Survival Mode]
+[00:44:25] [Render thread/INFO]: [System] [CHAT] Set ToToCr's game mode to Survival Mode
+[00:47:44] [Server thread/INFO]: <ToToCr> xaero-waypoint:enra:E:2581:91:1542:9:false:0:Internal-overworld
+[00:47:44] [Render thread/INFO]: [System] [CHAT] ToToCr shared a waypoint called "enra" from overworld! [Add]
+[00:48:14] [Server thread/INFO]: <GamboCarambo> xaero-waypoint:xp farm:X:2585:-17:1541:5:false:0:Internal-overworld
+[00:48:14] [Render thread/INFO]: [System] [CHAT] GamboCarambo shared a waypoint called "xp farm" from overworld! [Add]
+[00:52:14] [Render thread/INFO]: Resized a dynamic immediate buffer to 196608!
+[00:53:12] [Server thread/INFO]: [GamboCarambo: Teleported ItezaNoRajin to GamboCarambo]
+[00:53:12] [Render thread/INFO]: [System] [CHAT] Teleported ItezaNoRajin to GamboCarambo
+[00:57:16] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to 1637.500000, 68.500000, 1350.500000]
+[00:57:16] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to 1637.500000, 68.500000, 1350.500000
+[00:57:27] [Render thread/INFO]: Reloading pipeline on dimension change: minecraft:overworld => minecraft:the_nether
+[00:57:27] [Render thread/INFO]: Destroying pipeline minecraft:overworld
+[00:57:27] [Render thread/INFO]: Creating pipeline for dimension minecraft:the_nether
+[00:57:27] [Render thread/WARN]: Failed to resolve uniform inSulfurCaves, reason: Unknown variable: BIOME_SULFUR_CAVES ( = FunctionCall{smooth {[Number{56}, FunctionCall{if {[FunctionCall{in {[Id{biome}, Id{BIOME_SULFUR_CAVES}]} }, Number{1}, Number{0}]} }, Number{15}, Number{15}]} })
+java.lang.RuntimeException: Unknown variable: BIOME_SULFUR_CAVES
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:225)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpressionInternal(ExpressionResolver.java:81)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:140)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:196)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpressionInternal(ExpressionResolver.java:81)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:140)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:127)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:196)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpressionInternal(ExpressionResolver.java:81)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:140)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:196)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpression(ExpressionResolver.java:50)
+	at knot//net.irisshaders.iris.uniforms.custom.CustomUniforms.<init>(CustomUniforms.java:60)
+	at knot//net.irisshaders.iris.uniforms.custom.CustomUniforms$Builder.build(CustomUniforms.java:332)
+	at knot//net.irisshaders.iris.uniforms.custom.CustomUniforms$Builder.build(CustomUniforms.java:343)
+	at knot//net.irisshaders.iris.pipeline.IrisRenderingPipeline.<init>(IrisRenderingPipeline.java:298)
+	at knot//net.irisshaders.iris.Iris.createPipeline(Iris.java:653)
+	at knot//net.irisshaders.iris.pipeline.PipelineManager.preparePipeline(PipelineManager.java:33)
+	at knot//net.minecraft.client.Minecraft.handler$bpl000$iris$resetPipeline(Minecraft.java:9694)
+	at knot//net.minecraft.client.Minecraft.updateLevelInEngines(Minecraft.java)
+	at knot//net.minecraft.client.Minecraft.setLevel(Minecraft.java:2257)
+	at knot//net.minecraft.client.multiplayer.ClientPacketListener.handleRespawn(ClientPacketListener.java:1294)
+	at knot//net.minecraft.network.protocol.game.ClientboundRespawnPacket.handle(ClientboundRespawnPacket.java:42)
+	at knot//net.minecraft.network.protocol.game.ClientboundRespawnPacket.handle(ClientboundRespawnPacket.java:9)
+	at knot//net.minecraft.network.PacketProcessor$ListenerAndPacket.handle(PacketProcessor.java:55)
+	at knot//net.minecraft.network.PacketProcessor.processQueuedPackets(PacketProcessor.java:38)
+	at knot//net.minecraft.client.Minecraft.runTick(Minecraft.java:1343)
+	at knot//net.minecraft.client.Minecraft.run(Minecraft.java:991)
+	at knot//net.minecraft.client.main.Main.main(Main.java:248)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+[00:57:28] [Render thread/INFO]: Stopping worker threads
+[00:57:28] [Render thread/INFO]: Started 10 worker threads
+[00:57:28] [Render thread/INFO]: Stopping worker threads
+[00:57:28] [Render thread/INFO]: Started 10 worker threads
+[00:57:28] [Render thread/INFO]: Minimap updated server level id: -1504144214 for world ResourceKey[minecraft:dimension / minecraft:the_nether]
+[00:57:28] [Render thread/WARN]: Error while parsing the block ID map entry for "block.10104":
+[00:57:28] [Render thread/WARN]: - The block minecraft:stone_slab has no property with the name variant, ignoring!
+[00:57:28] [Render thread/INFO]: Stopping worker threads
+[00:57:28] [Render thread/INFO]: Started 10 worker threads
+[00:57:48] [Render thread/INFO]: Reloading pipeline on dimension change: minecraft:the_nether => minecraft:overworld
+[00:57:48] [Render thread/INFO]: Destroying pipeline minecraft:the_nether
+[00:57:48] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to ToToCr]
+[00:57:48] [Render thread/INFO]: Creating pipeline for dimension minecraft:overworld
+[00:57:48] [Render thread/WARN]: Failed to resolve uniform inSulfurCaves, reason: Unknown variable: BIOME_SULFUR_CAVES ( = FunctionCall{smooth {[Number{56}, FunctionCall{if {[FunctionCall{in {[Id{biome}, Id{BIOME_SULFUR_CAVES}]} }, Number{1}, Number{0}]} }, Number{15}, Number{15}]} })
+java.lang.RuntimeException: Unknown variable: BIOME_SULFUR_CAVES
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:225)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpressionInternal(ExpressionResolver.java:81)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:140)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:196)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpressionInternal(ExpressionResolver.java:81)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:140)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:127)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:196)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpressionInternal(ExpressionResolver.java:81)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:140)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:196)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpression(ExpressionResolver.java:50)
+	at knot//net.irisshaders.iris.uniforms.custom.CustomUniforms.<init>(CustomUniforms.java:60)
+	at knot//net.irisshaders.iris.uniforms.custom.CustomUniforms$Builder.build(CustomUniforms.java:332)
+	at knot//net.irisshaders.iris.uniforms.custom.CustomUniforms$Builder.build(CustomUniforms.java:343)
+	at knot//net.irisshaders.iris.pipeline.IrisRenderingPipeline.<init>(IrisRenderingPipeline.java:298)
+	at knot//net.irisshaders.iris.Iris.createPipeline(Iris.java:653)
+	at knot//net.irisshaders.iris.pipeline.PipelineManager.preparePipeline(PipelineManager.java:33)
+	at knot//net.minecraft.client.Minecraft.handler$bpl000$iris$resetPipeline(Minecraft.java:9694)
+	at knot//net.minecraft.client.Minecraft.updateLevelInEngines(Minecraft.java)
+	at knot//net.minecraft.client.Minecraft.setLevel(Minecraft.java:2257)
+	at knot//net.minecraft.client.multiplayer.ClientPacketListener.handleRespawn(ClientPacketListener.java:1294)
+	at knot//net.minecraft.network.protocol.game.ClientboundRespawnPacket.handle(ClientboundRespawnPacket.java:42)
+	at knot//net.minecraft.network.protocol.game.ClientboundRespawnPacket.handle(ClientboundRespawnPacket.java:9)
+	at knot//net.minecraft.network.PacketProcessor$ListenerAndPacket.handle(PacketProcessor.java:55)
+	at knot//net.minecraft.network.PacketProcessor.processQueuedPackets(PacketProcessor.java:38)
+	at knot//net.minecraft.client.Minecraft.runTick(Minecraft.java:1343)
+	at knot//net.minecraft.client.Minecraft.run(Minecraft.java:991)
+	at knot//net.minecraft.client.main.Main.main(Main.java:248)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+[00:57:49] [Render thread/INFO]: Stopping worker threads
+[00:57:49] [Render thread/INFO]: Started 10 worker threads
+[00:57:49] [Render thread/INFO]: Stopping worker threads
+[00:57:49] [Render thread/INFO]: Started 10 worker threads
+[00:57:49] [Render thread/INFO]: Minimap updated server level id: -1504144214 for world ResourceKey[minecraft:dimension / minecraft:overworld]
+[00:57:49] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to ToToCr
+[00:57:49] [Render thread/WARN]: Error while parsing the block ID map entry for "block.10104":
+[00:57:49] [Render thread/WARN]: - The block minecraft:stone_slab has no property with the name variant, ignoring!
+[00:57:49] [Render thread/INFO]: Stopping worker threads
+[00:57:49] [Render thread/INFO]: Started 10 worker threads
+[00:59:12] [Server thread/INFO]: [GamboCarambo: Teleported ItezaNoRajin to GamboCarambo]
+[00:59:12] [Render thread/INFO]: [System] [CHAT] Teleported ItezaNoRajin to GamboCarambo
+[01:02:04] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to ToToCr]
+[01:02:04] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to ToToCr
+[01:02:10] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to ItezaNoRajin]
+[01:02:10] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to ItezaNoRajin
+[01:02:33] [Server thread/INFO]: <GamboCarambo> xaero-waypoint:Waypoint:X:2035:94:1686:14:false:0:Internal-overworld
+[01:02:33] [Render thread/INFO]: [System] [CHAT] GamboCarambo shared a waypoint called "Waypoint" from overworld! [Add]
+[01:05:11] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[01:05:11] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[01:05:11] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[01:05:11] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[01:08:49] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to ItezaNoRajin]
+[01:08:49] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to ItezaNoRajin
+[01:10:32] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to 1637.500000, 68.500000, 1350.500000]
+[01:10:32] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to 1637.500000, 68.500000, 1350.500000
+[01:12:19] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to ItezaNoRajin]
+[01:12:19] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to ItezaNoRajin
+[01:18:19] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[01:18:19] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[01:18:19] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[01:18:19] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[01:18:19] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[01:18:19] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[01:18:19] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[01:18:28] [Render thread/INFO]: Destroying pipeline minecraft:overworld
+[01:18:28] [Render thread/INFO]: Profile: HIGH (+0 options changed by user)
+[01:18:29] [Render thread/INFO]: Using shaderpack: ComplementaryReimagined_r5.9.3.zip
+[01:18:29] [Render thread/INFO]: Creating pipeline for dimension minecraft:overworld
+[01:18:29] [Render thread/WARN]: Failed to resolve uniform inSulfurCaves, reason: Unknown variable: BIOME_SULFUR_CAVES ( = FunctionCall{smooth {[Number{56}, FunctionCall{if {[FunctionCall{in {[Id{biome}, Id{BIOME_SULFUR_CAVES}]} }, Number{1}, Number{0}]} }, Number{15}, Number{15}]} })
+java.lang.RuntimeException: Unknown variable: BIOME_SULFUR_CAVES
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:225)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpressionInternal(ExpressionResolver.java:81)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:140)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:196)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpressionInternal(ExpressionResolver.java:81)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:140)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:127)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:196)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpressionInternal(ExpressionResolver.java:81)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:140)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:196)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpression(ExpressionResolver.java:50)
+	at knot//net.irisshaders.iris.uniforms.custom.CustomUniforms.<init>(CustomUniforms.java:60)
+	at knot//net.irisshaders.iris.uniforms.custom.CustomUniforms$Builder.build(CustomUniforms.java:332)
+	at knot//net.irisshaders.iris.uniforms.custom.CustomUniforms$Builder.build(CustomUniforms.java:343)
+	at knot//net.irisshaders.iris.pipeline.IrisRenderingPipeline.<init>(IrisRenderingPipeline.java:298)
+	at knot//net.irisshaders.iris.Iris.createPipeline(Iris.java:653)
+	at knot//net.irisshaders.iris.pipeline.PipelineManager.preparePipeline(PipelineManager.java:33)
+	at knot//net.irisshaders.iris.Iris.reload(Iris.java:580)
+	at knot//net.irisshaders.iris.Iris.handleKeybinds(Iris.java:181)
+	at knot//net.minecraft.client.Minecraft.handler$bpk001$iris$onTick(Minecraft.java:9164)
+	at knot//net.minecraft.client.Minecraft.tick(Minecraft.java:2035)
+	at knot//net.minecraft.client.Minecraft.runTick(Minecraft.java:1360)
+	at knot//net.minecraft.client.Minecraft.run(Minecraft.java:991)
+	at knot//net.minecraft.client.main.Main.main(Main.java:248)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+[01:18:29] [Render thread/INFO]: [System] [CHAT] Shaders Reloaded!
+[01:18:29] [Render thread/WARN]: Error while parsing the block ID map entry for "block.10104":
+[01:18:29] [Render thread/WARN]: - The block minecraft:stone_slab has no property with the name variant, ignoring!
+[01:18:29] [Render thread/INFO]: Stopping worker threads
+[01:18:29] [Render thread/INFO]: Started 10 worker threads
+[01:20:14] [Render thread/INFO]: Loaded 697 advancements
+[01:26:55] [Server thread/INFO]: [ItezaNoRajin: Teleported ItezaNoRajin to 1636.500000, 68.500000, 1352.500000]
+[01:26:55] [Render thread/INFO]: [System] [CHAT] [ItezaNoRajin: Teleported ItezaNoRajin to 1636.500000, 68.500000, 1352.500000]
+[01:34:27] [Server thread/INFO]: [ItezaNoRajin: Teleported ItezaNoRajin to GamboCarambo]
+[01:34:27] [Render thread/INFO]: [System] [CHAT] [ItezaNoRajin: Teleported ItezaNoRajin to GamboCarambo]
+[01:36:17] [Server thread/INFO]: GamboCarambo has made the advancement [Take Aim]
+[01:36:18] [Render thread/INFO]: [System] [CHAT] GamboCarambo has made the advancement [Take Aim]
+[01:36:18] [Render thread/INFO]: Loaded 697 advancements
+[01:36:36] [Render thread/INFO]: Loaded 697 advancements
+[01:43:50] [Worker-Main-27/ERROR]: Block-attached entity at invalid position: BlockPos{x=-33, y=-56, z=2355}
+[01:45:05] [Server thread/INFO]: [GamboCarambo: Teleported ItezaNoRajin to GamboCarambo]
+[01:45:05] [Render thread/INFO]: [System] [CHAT] Teleported ItezaNoRajin to GamboCarambo
+[01:46:12] [DefaultDispatcher-worker-20/INFO]: Creating server-side ICE agent at request from 906314cf-8f44-479f-8415-13e780849f02 (ufrag: essential-q-a32d390f, pwd: 26f813e98915bbf78e038697e0bd17a6)
+[01:46:12] [DefaultDispatcher-worker-20/INFO]: [13] Starting connection between GamboCarambo (f98b4a7c-e282-4817-b514-e2b8534d12b3) and Herrera_ (906314cf-8f44-479f-8415-13e780849f02), we are the server
+[01:46:13] [DefaultDispatcher-worker-20/INFO]: [13] Using QUIC because both parties support it.
+[01:46:14] [User Authenticator #7/INFO]: UUID of player Herrera_ is 906314cf-8f44-479f-8415-13e780849f02
+[01:46:14] [Netty Server IO ICE #14/INFO]: Sending general config values to client
+[01:46:14] [Netty Server IO ICE #14/INFO]: Sending items config values to client
+[01:46:14] [Netty Server IO ICE #14/INFO]: Sending client config values to client
+[01:46:14] [Server thread/INFO]: Herrera_[local:E:e0e06ca1] logged in with entity id 265322 at (1628.2460724288649, 67.0, 1336.8016124443357)
+[01:46:14] [Server thread/INFO]: Herrera_ joined the game
+[01:46:14] [Server thread/INFO]: Sending 1 network capability to Herrera_
+[01:46:14] [Render thread/INFO]: [System] [CHAT] Herrera_ joined the game
+[01:46:15] [Server thread/INFO]: Received 1 capability from Herrera_
+[01:47:08] [Server thread/INFO]: Villager Villager['Librarian'/265217, l='ServerLevel[Minecraft extremo]', x=1610.30, y=67.00, z=1333.40] died, message: 'Librarian was slain by Herrera_'
+[01:47:17] [DefaultDispatcher-worker-22/INFO]: [13] [192.168.100.137:51052 <> 190.113.111.81:52479] [SebfFpADFr5Iba3P] Nomination successful: /201.207.239.93:22108 (server-reflexive for /192.168.100.137:51052) -> /190.113.111.81:52479 (srflx)
+[01:47:17] [DefaultDispatcher-worker-22/INFO]: [13]  * /201.207.239.93:22108 (server-reflexive for /192.168.100.137:51052) -> /190.113.111.81:52479 (srflx) (5ms RTT)
+[01:47:17] [DefaultDispatcher-worker-22/INFO]: [13]    /40.160.66.10:53410 (relayed for /192.168.100.137:51052) -> /40.160.66.10:60722 (relay) (162ms RTT)
+[01:47:17] [DefaultDispatcher-worker-22/INFO]: [13]    /40.160.66.10:53410 (relayed for /192.168.100.137:51052) -> /190.113.111.81:52479 (srflx) (168ms RTT)
+[01:47:17] [DefaultDispatcher-worker-22/INFO]: [13]    /201.207.239.93:22108 (server-reflexive for /192.168.100.137:51052) -> /40.160.66.10:60722 (relay) (162ms RTT)
+[01:47:17] [DefaultDispatcher-worker-22/INFO]: [13]    /51.195.24.116:63402 (relayed for /192.168.100.137:51052) -> /51.195.24.116:65441 (relay) (324ms RTT)
+[01:47:17] [DefaultDispatcher-worker-22/INFO]: [13]    /51.195.24.116:63402 (relayed for /192.168.100.137:51052) -> /190.113.111.81:52479 (srflx) (316ms RTT)
+[01:47:17] [DefaultDispatcher-worker-22/INFO]: [13]    /51.195.24.116:63402 (relayed for /192.168.100.137:51052) -> /40.160.66.10:60722 (relay) (324ms RTT)
+[01:47:17] [DefaultDispatcher-worker-22/INFO]: [13]    /40.160.66.10:53410 (relayed for /192.168.100.137:51052) -> /51.195.24.116:65441 (relay) (339ms RTT)
+[01:47:17] [DefaultDispatcher-worker-22/INFO]: [13]    /201.207.239.93:22108 (server-reflexive for /192.168.100.137:51052) -> /51.195.24.116:65441 (relay) (329ms RTT)
+[01:47:17] [DefaultDispatcher-worker-22/INFO]: [13]    /15.235.229.89:64311 (relayed for /192.168.100.137:51052) -> /190.113.111.81:52479 (srflx) (592ms RTT)
+[01:47:17] [DefaultDispatcher-worker-22/INFO]: [13]    /51.161.174.239:56992 (relayed for /192.168.100.137:51052) -> /190.113.111.81:52479 (srflx) (620ms RTT)
+[01:47:17] [DefaultDispatcher-worker-22/INFO]: [13]    /15.235.229.89:64311 (relayed for /192.168.100.137:51052) -> /40.160.66.10:60722 (relay) (599ms RTT)
+[01:47:17] [DefaultDispatcher-worker-22/INFO]: [13]    /40.160.66.10:53410 (relayed for /192.168.100.137:51052) -> /15.235.229.89:52928 (relay) (587ms RTT)
+[01:47:17] [DefaultDispatcher-worker-22/INFO]: [13]    /201.207.239.93:22108 (server-reflexive for /192.168.100.137:51052) -> /15.235.229.89:52928 (relay) (558ms RTT)
+[01:47:17] [DefaultDispatcher-worker-22/INFO]: [13]    /15.235.229.89:64311 (relayed for /192.168.100.137:51052) -> /51.195.24.116:65441 (relay) (615ms RTT)
+[01:47:17] [DefaultDispatcher-worker-22/INFO]: [13]    /51.195.24.116:63402 (relayed for /192.168.100.137:51052) -> /15.235.229.89:52928 (relay) (588ms RTT)
+[01:47:17] [DefaultDispatcher-worker-22/INFO]: [13]    /15.235.229.89:64311 (relayed for /192.168.100.137:51052) -> /15.235.229.89:52928 (relay) (569ms RTT)
+[01:47:17] [DefaultDispatcher-worker-22/INFO]: [13]    /201.207.239.93:22108 (server-reflexive for /192.168.100.137:51052) -> /51.161.174.239:49628 (relay) (622ms RTT)
+[01:47:17] [DefaultDispatcher-worker-22/INFO]: [13]    /51.161.174.239:56992 (relayed for /192.168.100.137:51052) -> /40.160.66.10:60722 (relay) (625ms RTT)
+[01:47:17] [DefaultDispatcher-worker-22/INFO]: [13]    /40.160.66.10:53410 (relayed for /192.168.100.137:51052) -> /51.161.174.239:49628 (relay) (558ms RTT)
+[01:47:17] [DefaultDispatcher-worker-22/INFO]: [13]    /51.161.174.239:56992 (relayed for /192.168.100.137:51052) -> /51.195.24.116:65441 (relay) (810ms RTT)
+[01:47:17] [DefaultDispatcher-worker-22/INFO]: [13]    /51.161.174.239:56992 (relayed for /192.168.100.137:51052) -> /15.235.229.89:52928 (relay) (764ms RTT)
+[01:47:17] [DefaultDispatcher-worker-22/INFO]: [13]    /51.161.174.239:56992 (relayed for /192.168.100.137:51052) -> /51.161.174.239:49628 (relay) (620ms RTT)
+[01:47:17] [DefaultDispatcher-worker-22/INFO]: [13]    /51.195.24.116:63402 (relayed for /192.168.100.137:51052) -> /51.161.174.239:49628 (relay) (732ms RTT)
+[01:47:17] [DefaultDispatcher-worker-22/INFO]: [13]    /15.235.229.89:64311 (relayed for /192.168.100.137:51052) -> /51.161.174.239:49628 (relay) (712ms RTT)
+[01:47:49] [Server thread/INFO]: [ItezaNoRajin: Teleported ItezaNoRajin to Herrera_]
+[01:47:49] [Render thread/INFO]: [System] [CHAT] [ItezaNoRajin: Teleported ItezaNoRajin to Herrera_]
+[01:48:46] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to Herrera_]
+[01:48:46] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to Herrera_
+[01:49:46] [Server thread/INFO]: ItezaNoRajin fell from a high place
+[01:49:46] [Render thread/INFO]: [System] [CHAT] ItezaNoRajin fell from a high place
+[01:49:46] [Server thread/INFO]: Created new backpack backup file for ItezaNoRajin with unique ID travelersbackpack.coal_30.10.2026-01.49.46.dat
+[01:49:58] [Server thread/INFO]: [ItezaNoRajin: Teleported ItezaNoRajin to 1553.500000, -36.500000, 1334.500000]
+[01:49:58] [Render thread/INFO]: [System] [CHAT] [ItezaNoRajin: Teleported ItezaNoRajin to 1553.500000, -36.500000, 1334.500000]
+[01:55:32] [Server thread/INFO]: <GamboCarambo> xaero-waypoint:XP FARM:X:2580:91:1539:4:false:0:Internal-overworld
+[01:55:32] [Render thread/INFO]: [System] [CHAT] GamboCarambo shared a waypoint called "XP FARM" from overworld! [Add]
+[01:55:40] [Server thread/INFO]: [Herrera_: Teleported Herrera_ to 2255.500000, 18.500000, 1210.500000]
+[01:55:40] [Render thread/INFO]: [System] [CHAT] [Herrera_: Teleported Herrera_ to 2255.500000, 18.500000, 1210.500000]
+[01:55:43] [Server thread/INFO]: [Herrera_: Teleported Herrera_ to 1658.500000, 72.500000, 1342.500000]
+[01:55:43] [Render thread/INFO]: [System] [CHAT] [Herrera_: Teleported Herrera_ to 1658.500000, 72.500000, 1342.500000]
+[01:56:35] [Server thread/INFO]: [GamboCarambo: Teleported ItezaNoRajin to GamboCarambo]
+[01:56:35] [Render thread/INFO]: [System] [CHAT] Teleported ItezaNoRajin to GamboCarambo
+[01:56:53] [Server thread/INFO]: [GamboCarambo: Teleported ItezaNoRajin to Herrera_]
+[01:56:53] [Render thread/INFO]: [System] [CHAT] Teleported ItezaNoRajin to Herrera_
+[01:57:28] [Server thread/INFO]: [GamboCarambo: Teleported ItezaNoRajin to GamboCarambo]
+[01:57:28] [Render thread/INFO]: [System] [CHAT] Teleported ItezaNoRajin to GamboCarambo
+[01:57:54] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[01:57:54] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[01:57:54] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[01:59:10] [Render thread/INFO]: Loaded 697 advancements
+[01:59:33] [Server thread/INFO]: ToToCr has made the advancement [Ice Bucket Challenge]
+[01:59:33] [Render thread/INFO]: [System] [CHAT] ToToCr has made the advancement [Ice Bucket Challenge]
+[02:00:04] [Server thread/INFO]: ToToCr lost connection: Disconnected
+[02:00:04] [Server thread/INFO]: ToToCr left the game
+[02:00:04] [Render thread/INFO]: [System] [CHAT] ToToCr left the game
+[02:01:58] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to Herrera_]
+[02:01:58] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to Herrera_
+[02:04:06] [Server thread/INFO]: [ItezaNoRajin: Set own game mode to Spectator Mode]
+[02:04:06] [Render thread/INFO]: [System] [CHAT] [ItezaNoRajin: Set own game mode to Spectator Mode]
+[02:04:27] [Render thread/INFO]: Reloading pipeline on dimension change: minecraft:overworld => minecraft:the_nether
+[02:04:27] [Render thread/INFO]: Destroying pipeline minecraft:overworld
+[02:04:27] [Render thread/INFO]: Creating pipeline for dimension minecraft:the_nether
+[02:04:28] [Render thread/WARN]: Failed to resolve uniform inSulfurCaves, reason: Unknown variable: BIOME_SULFUR_CAVES ( = FunctionCall{smooth {[Number{56}, FunctionCall{if {[FunctionCall{in {[Id{biome}, Id{BIOME_SULFUR_CAVES}]} }, Number{1}, Number{0}]} }, Number{15}, Number{15}]} })
+java.lang.RuntimeException: Unknown variable: BIOME_SULFUR_CAVES
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:225)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpressionInternal(ExpressionResolver.java:81)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:140)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:196)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpressionInternal(ExpressionResolver.java:81)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:140)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:127)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:196)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpressionInternal(ExpressionResolver.java:81)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:140)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:196)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpression(ExpressionResolver.java:50)
+	at knot//net.irisshaders.iris.uniforms.custom.CustomUniforms.<init>(CustomUniforms.java:60)
+	at knot//net.irisshaders.iris.uniforms.custom.CustomUniforms$Builder.build(CustomUniforms.java:332)
+	at knot//net.irisshaders.iris.uniforms.custom.CustomUniforms$Builder.build(CustomUniforms.java:343)
+	at knot//net.irisshaders.iris.pipeline.IrisRenderingPipeline.<init>(IrisRenderingPipeline.java:298)
+	at knot//net.irisshaders.iris.Iris.createPipeline(Iris.java:653)
+	at knot//net.irisshaders.iris.pipeline.PipelineManager.preparePipeline(PipelineManager.java:33)
+	at knot//net.minecraft.client.Minecraft.handler$bpl000$iris$resetPipeline(Minecraft.java:9694)
+	at knot//net.minecraft.client.Minecraft.updateLevelInEngines(Minecraft.java)
+	at knot//net.minecraft.client.Minecraft.setLevel(Minecraft.java:2257)
+	at knot//net.minecraft.client.multiplayer.ClientPacketListener.handleRespawn(ClientPacketListener.java:1294)
+	at knot//net.minecraft.network.protocol.game.ClientboundRespawnPacket.handle(ClientboundRespawnPacket.java:42)
+	at knot//net.minecraft.network.protocol.game.ClientboundRespawnPacket.handle(ClientboundRespawnPacket.java:9)
+	at knot//net.minecraft.network.PacketProcessor$ListenerAndPacket.handle(PacketProcessor.java:55)
+	at knot//net.minecraft.network.PacketProcessor.processQueuedPackets(PacketProcessor.java:38)
+	at knot//net.minecraft.client.Minecraft.runTick(Minecraft.java:1343)
+	at knot//net.minecraft.client.Minecraft.run(Minecraft.java:991)
+	at knot//net.minecraft.client.main.Main.main(Main.java:248)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+[02:04:28] [Render thread/INFO]: Stopping worker threads
+[02:04:28] [Render thread/INFO]: Started 10 worker threads
+[02:04:28] [Render thread/INFO]: Stopping worker threads
+[02:04:28] [Render thread/INFO]: Started 10 worker threads
+[02:04:28] [Render thread/INFO]: Minimap updated server level id: -1504144214 for world ResourceKey[minecraft:dimension / minecraft:the_nether]
+[02:04:28] [Render thread/WARN]: Error while parsing the block ID map entry for "block.10104":
+[02:04:28] [Render thread/WARN]: - The block minecraft:stone_slab has no property with the name variant, ignoring!
+[02:04:28] [Render thread/INFO]: Stopping worker threads
+[02:04:28] [Render thread/INFO]: Started 10 worker threads
+[02:04:39] [Server thread/INFO]: [ItezaNoRajin: Set own game mode to Survival Mode]
+[02:04:39] [Render thread/INFO]: [System] [CHAT] [ItezaNoRajin: Set own game mode to Survival Mode]
+[02:04:53] [Server thread/INFO]: Herrera_ has made the advancement [Cover Me with Diamonds]
+[02:04:53] [Render thread/INFO]: [System] [CHAT] Herrera_ has made the advancement [Cover Me with Diamonds]
+[02:05:00] [Render thread/INFO]: Reloading pipeline on dimension change: minecraft:the_nether => minecraft:overworld
+[02:05:00] [Render thread/INFO]: Destroying pipeline minecraft:the_nether
+[02:05:00] [Render thread/INFO]: Creating pipeline for dimension minecraft:overworld
+[02:05:00] [Render thread/WARN]: Failed to resolve uniform inSulfurCaves, reason: Unknown variable: BIOME_SULFUR_CAVES ( = FunctionCall{smooth {[Number{56}, FunctionCall{if {[FunctionCall{in {[Id{biome}, Id{BIOME_SULFUR_CAVES}]} }, Number{1}, Number{0}]} }, Number{15}, Number{15}]} })
+java.lang.RuntimeException: Unknown variable: BIOME_SULFUR_CAVES
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:225)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpressionInternal(ExpressionResolver.java:81)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:140)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:196)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpressionInternal(ExpressionResolver.java:81)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:140)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:127)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:196)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpressionInternal(ExpressionResolver.java:81)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:140)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:196)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpression(ExpressionResolver.java:50)
+	at knot//net.irisshaders.iris.uniforms.custom.CustomUniforms.<init>(CustomUniforms.java:60)
+	at knot//net.irisshaders.iris.uniforms.custom.CustomUniforms$Builder.build(CustomUniforms.java:332)
+	at knot//net.irisshaders.iris.uniforms.custom.CustomUniforms$Builder.build(CustomUniforms.java:343)
+	at knot//net.irisshaders.iris.pipeline.IrisRenderingPipeline.<init>(IrisRenderingPipeline.java:298)
+	at knot//net.irisshaders.iris.Iris.createPipeline(Iris.java:653)
+	at knot//net.irisshaders.iris.pipeline.PipelineManager.preparePipeline(PipelineManager.java:33)
+	at knot//net.minecraft.client.Minecraft.handler$bpl000$iris$resetPipeline(Minecraft.java:9694)
+	at knot//net.minecraft.client.Minecraft.updateLevelInEngines(Minecraft.java)
+	at knot//net.minecraft.client.Minecraft.setLevel(Minecraft.java:2257)
+	at knot//net.minecraft.client.multiplayer.ClientPacketListener.handleRespawn(ClientPacketListener.java:1294)
+	at knot//net.minecraft.network.protocol.game.ClientboundRespawnPacket.handle(ClientboundRespawnPacket.java:42)
+	at knot//net.minecraft.network.protocol.game.ClientboundRespawnPacket.handle(ClientboundRespawnPacket.java:9)
+	at knot//net.minecraft.network.PacketProcessor$ListenerAndPacket.handle(PacketProcessor.java:55)
+	at knot//net.minecraft.network.PacketProcessor.processQueuedPackets(PacketProcessor.java:38)
+	at knot//net.minecraft.client.Minecraft.runTick(Minecraft.java:1343)
+	at knot//net.minecraft.client.Minecraft.run(Minecraft.java:991)
+	at knot//net.minecraft.client.main.Main.main(Main.java:248)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+[02:05:01] [Render thread/INFO]: Stopping worker threads
+[02:05:01] [Render thread/INFO]: Started 10 worker threads
+[02:05:01] [Render thread/INFO]: Stopping worker threads
+[02:05:01] [Render thread/INFO]: Started 10 worker threads
+[02:05:01] [Render thread/INFO]: Minimap updated server level id: -1504144214 for world ResourceKey[minecraft:dimension / minecraft:overworld]
+[02:05:01] [Render thread/WARN]: Error while parsing the block ID map entry for "block.10104":
+[02:05:01] [Render thread/WARN]: - The block minecraft:stone_slab has no property with the name variant, ignoring!
+[02:05:01] [Render thread/INFO]: Stopping worker threads
+[02:05:01] [Render thread/INFO]: Started 10 worker threads
+[02:06:39] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:06:39] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:06:41] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:06:41] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:06:41] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:06:41] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:09:22] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to Herrera_]
+[02:09:22] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to Herrera_
+[02:10:42] [Render thread/INFO]: Destroying pipeline minecraft:overworld
+[02:10:42] [Render thread/INFO]: Profile: HIGH (+0 options changed by user)
+[02:10:42] [Render thread/INFO]: Using shaderpack: ComplementaryReimagined_r5.9.3.zip
+[02:10:42] [Render thread/INFO]: Creating pipeline for dimension minecraft:overworld
+[02:10:42] [Render thread/WARN]: Failed to resolve uniform inSulfurCaves, reason: Unknown variable: BIOME_SULFUR_CAVES ( = FunctionCall{smooth {[Number{56}, FunctionCall{if {[FunctionCall{in {[Id{biome}, Id{BIOME_SULFUR_CAVES}]} }, Number{1}, Number{0}]} }, Number{15}, Number{15}]} })
+java.lang.RuntimeException: Unknown variable: BIOME_SULFUR_CAVES
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:225)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpressionInternal(ExpressionResolver.java:81)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:140)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:196)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpressionInternal(ExpressionResolver.java:81)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:140)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:127)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:196)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpressionInternal(ExpressionResolver.java:81)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:140)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:196)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpression(ExpressionResolver.java:50)
+	at knot//net.irisshaders.iris.uniforms.custom.CustomUniforms.<init>(CustomUniforms.java:60)
+	at knot//net.irisshaders.iris.uniforms.custom.CustomUniforms$Builder.build(CustomUniforms.java:332)
+	at knot//net.irisshaders.iris.uniforms.custom.CustomUniforms$Builder.build(CustomUniforms.java:343)
+	at knot//net.irisshaders.iris.pipeline.IrisRenderingPipeline.<init>(IrisRenderingPipeline.java:298)
+	at knot//net.irisshaders.iris.Iris.createPipeline(Iris.java:653)
+	at knot//net.irisshaders.iris.pipeline.PipelineManager.preparePipeline(PipelineManager.java:33)
+	at knot//net.irisshaders.iris.Iris.reload(Iris.java:580)
+	at knot//net.irisshaders.iris.Iris.handleKeybinds(Iris.java:181)
+	at knot//net.minecraft.client.Minecraft.handler$bpk001$iris$onTick(Minecraft.java:9164)
+	at knot//net.minecraft.client.Minecraft.tick(Minecraft.java:2035)
+	at knot//net.minecraft.client.Minecraft.runTick(Minecraft.java:1360)
+	at knot//net.minecraft.client.Minecraft.run(Minecraft.java:991)
+	at knot//net.minecraft.client.main.Main.main(Main.java:248)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+[02:10:42] [Render thread/INFO]: [System] [CHAT] Shaders Reloaded!
+[02:10:42] [Render thread/WARN]: Error while parsing the block ID map entry for "block.10104":
+[02:10:42] [Render thread/WARN]: - The block minecraft:stone_slab has no property with the name variant, ignoring!
+[02:10:42] [Render thread/INFO]: Stopping worker threads
+[02:10:42] [Render thread/INFO]: Started 10 worker threads
+[02:10:44] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to Herrera_]
+[02:10:44] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to Herrera_
+[02:11:58] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to Herrera_]
+[02:11:58] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to Herrera_
+[02:12:23] [Render thread/INFO]: Loaded 699 advancements
+[02:13:16] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:27] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:28] [Render thread/INFO]: OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='GL_INVALID_OPERATION error generated. No active program.'
+[02:13:59] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to Herrera_]
+[02:13:59] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to Herrera_
+[02:14:14] [Render thread/INFO]: Loaded 708 advancements
+[02:16:20] [Render thread/INFO]: Loaded 709 advancements
+[02:18:15] [Server thread/INFO]: [GamboCarambo: Teleported ItezaNoRajin to GamboCarambo]
+[02:18:15] [Render thread/INFO]: [System] [CHAT] Teleported ItezaNoRajin to GamboCarambo
+[02:18:21] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to 2580.500000, 91.500000, 1539.500000]
+[02:18:21] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to 2580.500000, 91.500000, 1539.500000
+[02:18:27] [Server thread/INFO]: [ItezaNoRajin: Teleported ItezaNoRajin to 2585.500000, -16.500000, 1541.500000]
+[02:18:27] [Render thread/INFO]: [System] [CHAT] [ItezaNoRajin: Teleported ItezaNoRajin to 2585.500000, -16.500000, 1541.500000]
+[02:18:46] [Server thread/INFO]: <GamboCarambo> xaero-waypoint:XP FARM:X:2580:91:1539:4:false:0:Internal-overworld
+[02:18:46] [Render thread/INFO]: [System] [CHAT] GamboCarambo shared a waypoint called "XP FARM" from overworld! [Add]
+[02:20:14] [Worker-Main-25/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
+: Failed to decode value '[{base:0.25d,id:"minecraft:movement_speed"},{base:4.0d,id:"minecraft:attack_damage"},{base:16.0d,id:"minecraft:follow_range",modifiers:[{amount:0.014438676667896715d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.08d,id:"forge:entity_gravity"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: forge:entity_gravity
+[02:20:14] [Worker-Main-25/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
+: Failed to decode value '[{base:0.25d,id:"minecraft:movement_speed"},{base:4.0d,id:"minecraft:attack_damage"},{base:16.0d,id:"minecraft:follow_range",modifiers:[{amount:0.014438676667896715d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.08d,id:"forge:entity_gravity"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: forge:entity_gravity
+[02:20:14] [Worker-Main-25/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
+: Failed to decode value '[{base:0.25d,id:"minecraft:movement_speed"},{base:4.0d,id:"minecraft:attack_damage"},{base:16.0d,id:"minecraft:follow_range",modifiers:[{amount:0.014438676667896715d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.08d,id:"forge:entity_gravity"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: forge:entity_gravity
+[02:22:02] [Worker-Main-17/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
+: Failed to decode value '[{base:0.25d,id:"minecraft:movement_speed"},{base:4.0d,id:"minecraft:attack_damage"},{base:16.0d,id:"minecraft:follow_range",modifiers:[{amount:0.014438676667896715d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.08d,id:"forge:entity_gravity"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: forge:entity_gravity
+[02:22:38] [Worker-Main-25/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
+: Failed to decode value '[{base:0.25d,id:"minecraft:movement_speed"},{base:4.0d,id:"minecraft:attack_damage"},{base:16.0d,id:"minecraft:follow_range",modifiers:[{amount:0.014438676667896715d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.08d,id:"forge:entity_gravity"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: forge:entity_gravity
+[02:22:39] [Worker-Main-22/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
+: Failed to decode value '[{base:0.25d,id:"minecraft:movement_speed"},{base:4.0d,id:"minecraft:attack_damage"},{base:16.0d,id:"minecraft:follow_range",modifiers:[{amount:0.014438676667896715d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.08d,id:"forge:entity_gravity"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: forge:entity_gravity
+[02:22:39] [Worker-Main-22/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
+: Failed to decode value '[{base:0.25d,id:"minecraft:movement_speed"},{base:4.0d,id:"minecraft:attack_damage"},{base:16.0d,id:"minecraft:follow_range",modifiers:[{amount:0.014438676667896715d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.08d,id:"forge:entity_gravity"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: forge:entity_gravity
+[02:22:39] [Worker-Main-22/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
+: Failed to decode value '[{base:0.25d,id:"minecraft:movement_speed"},{base:4.0d,id:"minecraft:attack_damage"},{base:16.0d,id:"minecraft:follow_range",modifiers:[{amount:0.014438676667896715d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.08d,id:"forge:entity_gravity"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: forge:entity_gravity
+[02:22:39] [Worker-Main-22/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
+: Failed to decode value '[{base:0.25d,id:"minecraft:movement_speed"},{base:4.0d,id:"minecraft:attack_damage"},{base:16.0d,id:"minecraft:follow_range",modifiers:[{amount:0.014438676667896715d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.08d,id:"forge:entity_gravity"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: forge:entity_gravity
+[02:22:39] [Worker-Main-28/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
+: Failed to decode value '[{base:0.25d,id:"minecraft:movement_speed"},{base:4.0d,id:"minecraft:attack_damage"},{base:16.0d,id:"minecraft:follow_range",modifiers:[{amount:0.014438676667896715d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.08d,id:"forge:entity_gravity"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: forge:entity_gravity
+[02:22:39] [Worker-Main-28/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
+: Failed to decode value '[{base:0.25d,id:"minecraft:movement_speed"},{base:4.0d,id:"minecraft:attack_damage"},{base:16.0d,id:"minecraft:follow_range",modifiers:[{amount:0.014438676667896715d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.08d,id:"forge:entity_gravity"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: forge:entity_gravity
+[02:22:57] [Server thread/INFO]: [GamboCarambo: Teleported ItezaNoRajin to GamboCarambo]
+[02:22:57] [Render thread/INFO]: [System] [CHAT] Teleported ItezaNoRajin to GamboCarambo
+[02:23:13] [Server thread/INFO]: [GamboCarambo: Teleported ItezaNoRajin to GamboCarambo]
+[02:23:13] [Render thread/INFO]: [System] [CHAT] Teleported ItezaNoRajin to GamboCarambo
+[02:24:48] [Worker-Main-24/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
+: Failed to decode value '[{base:0.3499999940395355d,id:"minecraft:movement_speed"},{base:0.08d,id:"forge:entity_gravity"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: forge:entity_gravity
+[02:24:48] [Worker-Main-24/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
+:
+  Failed to decode value '[{base:16.0d,id:"minecraft:follow_range",modifiers:[{amount:-0.07619518096066254d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.25d,id:"minecraft:movement_speed"},{base:0.08d,id:"forge:entity_gravity"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: forge:entity_gravity
+  Failed to decode value '[{base:16.0d,id:"minecraft:follow_range",modifiers:[{amount:-0.044437634186067373d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.25d,id:"minecraft:movement_speed"},{base:0.08d,id:"forge:entity_gravity"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: forge:entity_gravity
+[02:25:52] [Server thread/INFO]: [Herrera_: Teleported Herrera_ to 209.500000, 78.500000, 170.500000]
+[02:25:52] [Render thread/INFO]: [System] [CHAT] [Herrera_: Teleported Herrera_ to 209.500000, 78.500000, 170.500000]
+[02:26:21] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to Herrera_]
+[02:26:21] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to Herrera_
+[02:26:35] [Render thread/INFO]: Destroying pipeline minecraft:overworld
+[02:26:35] [Render thread/INFO]: Profile: HIGH (+0 options changed by user)
+[02:26:35] [Render thread/INFO]: Using shaderpack: ComplementaryReimagined_r5.9.3.zip
+[02:26:35] [Render thread/INFO]: Creating pipeline for dimension minecraft:overworld
+[02:26:35] [Render thread/WARN]: Failed to resolve uniform inSulfurCaves, reason: Unknown variable: BIOME_SULFUR_CAVES ( = FunctionCall{smooth {[Number{56}, FunctionCall{if {[FunctionCall{in {[Id{biome}, Id{BIOME_SULFUR_CAVES}]} }, Number{1}, Number{0}]} }, Number{15}, Number{15}]} })
+java.lang.RuntimeException: Unknown variable: BIOME_SULFUR_CAVES
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:225)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpressionInternal(ExpressionResolver.java:81)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:140)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:196)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpressionInternal(ExpressionResolver.java:81)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:140)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:127)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:196)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpressionInternal(ExpressionResolver.java:81)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:140)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:196)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpression(ExpressionResolver.java:50)
+	at knot//net.irisshaders.iris.uniforms.custom.CustomUniforms.<init>(CustomUniforms.java:60)
+	at knot//net.irisshaders.iris.uniforms.custom.CustomUniforms$Builder.build(CustomUniforms.java:332)
+	at knot//net.irisshaders.iris.uniforms.custom.CustomUniforms$Builder.build(CustomUniforms.java:343)
+	at knot//net.irisshaders.iris.pipeline.IrisRenderingPipeline.<init>(IrisRenderingPipeline.java:298)
+	at knot//net.irisshaders.iris.Iris.createPipeline(Iris.java:653)
+	at knot//net.irisshaders.iris.pipeline.PipelineManager.preparePipeline(PipelineManager.java:33)
+	at knot//net.irisshaders.iris.Iris.reload(Iris.java:580)
+	at knot//net.irisshaders.iris.Iris.handleKeybinds(Iris.java:181)
+	at knot//net.minecraft.client.Minecraft.handler$bpk001$iris$onTick(Minecraft.java:9164)
+	at knot//net.minecraft.client.Minecraft.tick(Minecraft.java:2035)
+	at knot//net.minecraft.client.Minecraft.runTick(Minecraft.java:1360)
+	at knot//net.minecraft.client.Minecraft.run(Minecraft.java:991)
+	at knot//net.minecraft.client.main.Main.main(Main.java:248)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+[02:26:35] [Render thread/INFO]: [System] [CHAT] Shaders Reloaded!
+[02:26:35] [Render thread/WARN]: Error while parsing the block ID map entry for "block.10104":
+[02:26:35] [Render thread/WARN]: - The block minecraft:stone_slab has no property with the name variant, ignoring!
+[02:26:35] [Render thread/INFO]: Stopping worker threads
+[02:26:36] [Render thread/INFO]: Started 10 worker threads
+[02:26:45] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to 2580.500000, 91.500000, 1539.500000]
+[02:26:45] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to 2580.500000, 91.500000, 1539.500000
+[02:28:18] [Server thread/INFO]: [Herrera_: Teleported Herrera_ to 209.500000, 78.500000, 170.500000]
+[02:28:18] [Render thread/INFO]: [System] [CHAT] [Herrera_: Teleported Herrera_ to 209.500000, 78.500000, 170.500000]
+[02:32:04] [Server thread/INFO]: [ItezaNoRajin: Teleported ItezaNoRajin to 2580.500000, 91.500000, 1539.500000]
+[02:32:04] [Render thread/INFO]: [System] [CHAT] [ItezaNoRajin: Teleported ItezaNoRajin to 2580.500000, 91.500000, 1539.500000]
+[02:35:14] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to Herrera_]
+[02:35:14] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to Herrera_
+[02:35:25] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to ItezaNoRajin]
+[02:35:25] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to ItezaNoRajin
+[02:35:53] [Server thread/INFO]: [ItezaNoRajin: Teleported ItezaNoRajin to 1636.500000, 68.500000, 1352.500000]
+[02:35:53] [Render thread/INFO]: [System] [CHAT] [ItezaNoRajin: Teleported ItezaNoRajin to 1636.500000, 68.500000, 1352.500000]
+[02:37:20] [Server thread/INFO]: ItezaNoRajin lost connection: Disconnected
+[02:37:20] [Server thread/INFO]: ItezaNoRajin left the game
+[02:37:20] [Render thread/INFO]: [System] [CHAT] ItezaNoRajin left the game
+[02:45:37] [Worker-Main-30/WARN]: [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate] Serialization errors:
+:
+  Failed to decode value '[{base:16.0d,id:"minecraft:follow_range",modifiers:[{amount:-0.07619518096066254d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.25d,id:"minecraft:movement_speed"},{base:0.08d,id:"forge:entity_gravity"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: forge:entity_gravity
+  Failed to decode value '[{base:16.0d,id:"minecraft:follow_range",modifiers:[{amount:-0.044437634186067373d,id:"minecraft:random_spawn_bonus",operation:"add_multiplied_base"}]},{base:0.25d,id:"minecraft:movement_speed"},{base:0.08d,id:"forge:entity_gravity"}]' from field 'attributes': Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: forge:entity_gravity
+[02:50:14] [Server thread/INFO]: [Herrera_: Teleported Herrera_ to 209.500000, 78.500000, 170.500000]
+[02:50:14] [Render thread/INFO]: [System] [CHAT] [Herrera_: Teleported Herrera_ to 209.500000, 78.500000, 170.500000]
+[03:05:27] [Server thread/INFO]: Herrera_ lost connection: Disconnected
+[03:05:27] [Server thread/INFO]: Herrera_ left the game
+[03:05:27] [Render thread/INFO]: [System] [CHAT] Herrera_ left the game
+[03:10:04] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to 1637.500000, 68.500000, 1350.500000]
+[03:10:04] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to 1637.500000, 68.500000, 1350.500000
+[03:11:44] [Render thread/INFO]: [System] [CHAT] Unknown or incomplete command. See below for error
+[03:11:44] [Render thread/INFO]: [System] [CHAT] gamemode<--[HERE]
+[03:12:09] [Server thread/INFO]: [GamboCarambo: Gave 1 [Golden Hook] to GamboCarambo]
+[03:12:09] [Render thread/INFO]: [System] [CHAT] Gave 1 [Golden Hook] to GamboCarambo
+[03:12:41] [Server thread/INFO]: [GamboCarambo: Gave 1 [Bottle o' Enchanting] to GamboCarambo]
+[03:12:41] [Render thread/INFO]: [System] [CHAT] Gave 1 [Bottle o' Enchanting] to GamboCarambo
+[03:12:46] [Render thread/INFO]: Destroying pipeline minecraft:overworld
+[03:12:46] [Render thread/INFO]: Profile: HIGH (+0 options changed by user)
+[03:12:46] [Render thread/INFO]: Using shaderpack: ComplementaryReimagined_r5.9.3.zip
+[03:12:46] [Render thread/INFO]: Creating pipeline for dimension minecraft:overworld
+[03:12:46] [Render thread/WARN]: Failed to resolve uniform inSulfurCaves, reason: Unknown variable: BIOME_SULFUR_CAVES ( = FunctionCall{smooth {[Number{56}, FunctionCall{if {[FunctionCall{in {[Id{biome}, Id{BIOME_SULFUR_CAVES}]} }, Number{1}, Number{0}]} }, Number{15}, Number{15}]} })
+java.lang.RuntimeException: Unknown variable: BIOME_SULFUR_CAVES
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:225)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpressionInternal(ExpressionResolver.java:81)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:140)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:196)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpressionInternal(ExpressionResolver.java:81)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:140)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:127)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:196)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpressionInternal(ExpressionResolver.java:81)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:140)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:196)
+	at knot//kroppeb.stareval.resolver.ExpressionResolver.resolveExpression(ExpressionResolver.java:50)
+	at knot//net.irisshaders.iris.uniforms.custom.CustomUniforms.<init>(CustomUniforms.java:60)
+	at knot//net.irisshaders.iris.uniforms.custom.CustomUniforms$Builder.build(CustomUniforms.java:332)
+	at knot//net.irisshaders.iris.uniforms.custom.CustomUniforms$Builder.build(CustomUniforms.java:343)
+	at knot//net.irisshaders.iris.pipeline.IrisRenderingPipeline.<init>(IrisRenderingPipeline.java:298)
+	at knot//net.irisshaders.iris.Iris.createPipeline(Iris.java:653)
+	at knot//net.irisshaders.iris.pipeline.PipelineManager.preparePipeline(PipelineManager.java:33)
+	at knot//net.irisshaders.iris.Iris.reload(Iris.java:580)
+	at knot//net.irisshaders.iris.Iris.handleKeybinds(Iris.java:181)
+	at knot//net.minecraft.client.Minecraft.handler$bpk001$iris$onTick(Minecraft.java:9164)
+	at knot//net.minecraft.client.Minecraft.tick(Minecraft.java:2035)
+	at knot//net.minecraft.client.Minecraft.runTick(Minecraft.java:1360)
+	at knot//net.minecraft.client.Minecraft.run(Minecraft.java:991)
+	at knot//net.minecraft.client.main.Main.main(Main.java:248)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+[03:12:47] [Render thread/INFO]: [System] [CHAT] Shaders Reloaded!
+[03:12:47] [Render thread/WARN]: Error while parsing the block ID map entry for "block.10104":
+[03:12:47] [Render thread/WARN]: - The block minecraft:stone_slab has no property with the name variant, ignoring!
+[03:12:47] [Render thread/INFO]: Stopping worker threads
+[03:12:47] [Render thread/INFO]: Started 10 worker threads
+[03:12:49] [Server thread/INFO]: [GamboCarambo: Gave 1 [Cloud in a Bottle] to GamboCarambo]
+[03:12:49] [Render thread/INFO]: [System] [CHAT] Gave 1 [Cloud in a Bottle] to GamboCarambo
+[03:12:52] [Server thread/INFO]: [GamboCarambo: Gave 64 [Bottle o' Enchanting] to GamboCarambo]
+[03:12:52] [Render thread/INFO]: [System] [CHAT] Gave 64 [Bottle o' Enchanting] to GamboCarambo
+[03:13:13] [Server thread/INFO]: [GamboCarambo: Gave 64 [Bottle o' Enchanting] to GamboCarambo]
+[03:13:13] [Render thread/INFO]: [System] [CHAT] Gave 64 [Bottle o' Enchanting] to GamboCarambo
+[03:13:15] [Server thread/INFO]: [GamboCarambo: Gave 64 [Bottle o' Enchanting] to GamboCarambo]
+[03:13:15] [Render thread/INFO]: [System] [CHAT] Gave 64 [Bottle o' Enchanting] to GamboCarambo
+[03:13:16] [Server thread/INFO]: [GamboCarambo: Gave 64 [Bottle o' Enchanting] to GamboCarambo]
+[03:13:16] [Render thread/INFO]: [System] [CHAT] Gave 64 [Bottle o' Enchanting] to GamboCarambo
+[03:13:54] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to 2580.500000, 91.500000, 1539.500000]
+[03:13:54] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to 2580.500000, 91.500000, 1539.500000
+[03:14:33] [Server thread/INFO]: [GamboCarambo: Gave 1 [Enchanted Book] to GamboCarambo]
+[03:14:33] [Render thread/INFO]: [System] [CHAT] Gave 1 [Enchanted Book] to GamboCarambo
+[03:14:38] [Server thread/INFO]: [GamboCarambo: Gave 1 [Enchanted Book] to GamboCarambo]
+[03:14:38] [Render thread/INFO]: [System] [CHAT] Gave 1 [Enchanted Book] to GamboCarambo
+[03:14:40] [Server thread/INFO]: [GamboCarambo: Gave 1 [Enchanted Book] to GamboCarambo]
+[03:14:40] [Render thread/INFO]: [System] [CHAT] Gave 1 [Enchanted Book] to GamboCarambo
+[03:15:11] [Server thread/INFO]: [GamboCarambo: Gave 1 [Enchanted Book] to GamboCarambo]
+[03:15:11] [Render thread/INFO]: [System] [CHAT] Gave 1 [Enchanted Book] to GamboCarambo
+[03:15:22] [Server thread/INFO]: [GamboCarambo: Gave 1 [Enchanted Book] to GamboCarambo]
+[03:15:22] [Render thread/INFO]: [System] [CHAT] Gave 1 [Enchanted Book] to GamboCarambo
+[03:16:14] [Server thread/INFO]: [GamboCarambo: Gave 1 [Enchanted Book] to GamboCarambo]
+[03:16:14] [Render thread/INFO]: [System] [CHAT] Gave 1 [Enchanted Book] to GamboCarambo
+[03:16:36] [Server thread/INFO]: [GamboCarambo: Gave 1 [Enchanted Book] to GamboCarambo]
+[03:16:36] [Render thread/INFO]: [System] [CHAT] Gave 1 [Enchanted Book] to GamboCarambo
+[03:17:20] [Server thread/INFO]: [GamboCarambo: Gave 1 [Enchanted Book] to GamboCarambo]
+[03:17:20] [Render thread/INFO]: [System] [CHAT] Gave 1 [Enchanted Book] to GamboCarambo
+[03:18:22] [Server thread/INFO]: [GamboCarambo: Gave 1 [Block of Emerald] to GamboCarambo]
+[03:18:22] [Render thread/INFO]: [System] [CHAT] Gave 1 [Block of Emerald] to GamboCarambo
+[03:18:23] [Server thread/INFO]: [GamboCarambo: Gave 1 [Block of Emerald] to GamboCarambo]
+[03:18:23] [Render thread/INFO]: [System] [CHAT] Gave 1 [Block of Emerald] to GamboCarambo
+[03:18:23] [Server thread/INFO]: [GamboCarambo: Gave 1 [Block of Emerald] to GamboCarambo]
+[03:18:23] [Render thread/INFO]: [System] [CHAT] Gave 1 [Block of Emerald] to GamboCarambo
+[03:18:23] [Server thread/INFO]: [GamboCarambo: Gave 1 [Block of Emerald] to GamboCarambo]
+[03:18:23] [Render thread/INFO]: [System] [CHAT] Gave 1 [Block of Emerald] to GamboCarambo
+[03:18:23] [Server thread/INFO]: [GamboCarambo: Gave 1 [Block of Emerald] to GamboCarambo]
+[03:18:23] [Render thread/INFO]: [System] [CHAT] Gave 1 [Block of Emerald] to GamboCarambo
+[03:18:23] [Server thread/INFO]: [GamboCarambo: Gave 1 [Block of Emerald] to GamboCarambo]
+[03:18:23] [Render thread/INFO]: [System] [CHAT] Gave 1 [Block of Emerald] to GamboCarambo
+[03:18:24] [Server thread/INFO]: [GamboCarambo: Gave 1 [Block of Emerald] to GamboCarambo]
+[03:18:24] [Render thread/INFO]: [System] [CHAT] Gave 1 [Block of Emerald] to GamboCarambo
+[03:18:24] [Server thread/INFO]: [GamboCarambo: Gave 57 [Block of Emerald] to GamboCarambo]
+[03:18:24] [Render thread/INFO]: [System] [CHAT] Gave 57 [Block of Emerald] to GamboCarambo
+[03:18:39] [Server thread/INFO]: [GamboCarambo: Gave 1 [Block of Emerald] to GamboCarambo]
+[03:18:39] [Render thread/INFO]: [System] [CHAT] Gave 1 [Block of Emerald] to GamboCarambo
+[03:18:39] [Server thread/INFO]: [GamboCarambo: Gave 63 [Block of Emerald] to GamboCarambo]
+[03:18:39] [Render thread/INFO]: [System] [CHAT] Gave 63 [Block of Emerald] to GamboCarambo
+[03:19:55] [Server thread/INFO]: [GamboCarambo: Gave 1 [Bottle o' Enchanting] to GamboCarambo]
+[03:19:55] [Render thread/INFO]: [System] [CHAT] Gave 1 [Bottle o' Enchanting] to GamboCarambo
+[03:19:55] [Server thread/INFO]: [GamboCarambo: Gave 63 [Bottle o' Enchanting] to GamboCarambo]
+[03:19:55] [Render thread/INFO]: [System] [CHAT] Gave 63 [Bottle o' Enchanting] to GamboCarambo
+[03:19:58] [Server thread/INFO]: [GamboCarambo: Gave 1 [Bottle o' Enchanting] to GamboCarambo]
+[03:19:58] [Render thread/INFO]: [System] [CHAT] Gave 1 [Bottle o' Enchanting] to GamboCarambo
+[03:19:59] [Server thread/INFO]: [GamboCarambo: Gave 63 [Bottle o' Enchanting] to GamboCarambo]
+[03:19:59] [Render thread/INFO]: [System] [CHAT] Gave 63 [Bottle o' Enchanting] to GamboCarambo
+[03:20:49] [Server thread/INFO]: [GamboCarambo: Gave 1 [Enchanted Book] to GamboCarambo]
+[03:20:49] [Render thread/INFO]: [System] [CHAT] Gave 1 [Enchanted Book] to GamboCarambo
+[03:20:56] [Server thread/INFO]: [GamboCarambo: Gave 1 [Anvil] to GamboCarambo]
+[03:20:56] [Render thread/INFO]: [System] [CHAT] Gave 1 [Anvil] to GamboCarambo
+[03:21:50] [Server thread/INFO]: [GamboCarambo: Gave 1 [Enchanted Book] to GamboCarambo]
+[03:21:50] [Render thread/INFO]: [System] [CHAT] Gave 1 [Enchanted Book] to GamboCarambo
+[03:22:10] [Server thread/INFO]: [GamboCarambo: Gave 1 [Enchanted Book] to GamboCarambo]
+[03:22:10] [Render thread/INFO]: [System] [CHAT] Gave 1 [Enchanted Book] to GamboCarambo
+[03:25:04] [Server thread/INFO]: [GamboCarambo: Gave 1 [Enchanted Book] to GamboCarambo]
+[03:25:04] [Render thread/INFO]: [System] [CHAT] Gave 1 [Enchanted Book] to GamboCarambo
+[03:26:11] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to 2580.500000, 91.500000, 1539.500000]
+[03:26:11] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to 2580.500000, 91.500000, 1539.500000
+[03:26:15] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to 2580.500000, 91.500000, 1539.500000]
+[03:26:15] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to 2580.500000, 91.500000, 1539.500000
+[03:26:33] [Server thread/INFO]: [GamboCarambo: Teleported GamboCarambo to 1637.500000, 68.500000, 1350.500000]
+[03:26:33] [Render thread/INFO]: [System] [CHAT] Teleported GamboCarambo to 1637.500000, 68.500000, 1350.500000
+[03:28:16] [Server thread/INFO]: [GamboCarambo: Gave 1 [Villager Hat] to GamboCarambo]
+[03:28:16] [Render thread/INFO]: [System] [CHAT] Gave 1 [Villager Hat] to GamboCarambo
+[03:28:27] [Render thread/INFO]: Reloading ResourceManager: file/Shiny Ores.zip, vanilla, apollib, appleskin, artifacts, balm, bettercaves, betterdeserttemples, betterdungeons, betterendisland, betterfortresses, betterjungletemples, bettermineshafts, betteroceanmonuments, betterstrongholds, betterwitchhuts, biomesoplenty, cardinal-components-base, cardinal-components-entity, cloth-config, cristellib, durabilitytooltip, essential, essential-container, essential-loader, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-getter-api-v2, fabric-command-api-v2, fabric-content-registries-v0, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-creative-tab-api-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-debug-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-key-mapping-api-v1, fabric-language-kotlin, fabric-lifecycle-events-v1, fabric-loot-api-v3, fabric-menu-api-v1, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-permission-api-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-rendering-fluids-v1, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-resource-loader-v1, fabric-screen-api-v1, fabric-serialization-api-v1, fabric-sound-api-v1, fabric-tag-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, forgeconfigapiport, iris, jade, jamlib, jei, justzoom, kuma_api, lambdynlights, lambdynlights_api, mezz_config, pride, rightclickharvest, sodium, spruceui, terrablender, terralith, trashslot, travelersbackpack, trinkets_updated, xaerolib, xaerominimap, xaeroworldmap, yungsapi, yungscavebiomes, Essential Assets, essential
+[03:28:27] [Worker-Main-17/INFO]: Found unifont_all_no_pua-17.0.01.hex, loading
+[03:28:27] [Worker-Main-23/INFO]: Found unifont_pua-17.0.01.hex, loading
+[03:28:27] [Worker-Main-28/INFO]: Found unifont_jp_patch-17.0.01.hex, loading
+[03:28:28] [Worker-Main-17/WARN]: Missing block model: yungscavebiomes:item/make_client_item
+[03:28:29] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Razer Barracuda X Chroma)
+[03:28:29] [Render thread/INFO]: Sound engine started
+[03:28:29] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[03:28:29] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/decorated_pot.png-atlas
+[03:28:29] [Render thread/INFO]: Created: 2048x1024x0 minecraft:textures/atlas/armor_trims.png-atlas
+[03:28:29] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[03:28:29] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/shield_patterns.png-atlas
+[03:28:29] [Render thread/INFO]: Created: 4096x2048x4 minecraft:textures/atlas/blocks.png-atlas
+[03:28:29] [Render thread/INFO]: Radar icon manager reset!
+[03:28:29] [Render thread/INFO]: Reloading radar icon resources...
+[03:28:29] [Render thread/INFO]: Reloaded radar icon resources!
+[03:28:29] [Render thread/INFO]: New world map region cache hash code: -394246386
+[03:28:29] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/chest.png-atlas
+[03:28:29] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/celestials.png-atlas
+[03:28:29] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/banner_patterns.png-atlas
+[03:28:29] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/beds.png-atlas
+[03:28:29] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/items.png-atlas
+[03:28:29] [Render thread/INFO]: Created: 1024x1024x0 minecraft:textures/atlas/gui.png-atlas
+[03:28:29] [Render thread/INFO]: Created: 128x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[03:28:29] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/signs.png-atlas
+[03:28:29] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/shulker_boxes.png-atlas
+[03:28:29] [Render thread/WARN]: Duplicate sprite minecraft:entity/chest/normal from atlas minecraft:textures/atlas/blocks.png, already defined in atlas minecraft:textures/atlas/chest.png. This will be rejected in a future version
+[03:28:29] [Render thread/INFO]: Loaded 1 models and 1 animations from resources
+[03:28:29] [Render thread/INFO]: Rebuilding ingredient filter...
+[03:28:29] [Render thread/INFO]: Rebuilding ingredient filter took 196.0 milliseconds
+[03:28:29] [Render thread/INFO]: Stopping worker threads
+[03:28:29] [Render thread/INFO]: Started 10 worker threads
+[03:29:46] [Server thread/INFO]: [GamboCarambo: Gave 1 [Enchanted Book] to GamboCarambo]
+[03:29:46] [Render thread/INFO]: [System] [CHAT] Gave 1 [Enchanted Book] to GamboCarambo
+[03:29:55] [Server thread/INFO]: [GamboCarambo: Set own game mode to Creative Mode]
+[03:29:55] [Render thread/INFO]: [System] [CHAT] Set own game mode to Creative Mode
+[03:30:15] [Server thread/INFO]: [GamboCarambo: Set own game mode to Survival Mode]
+[03:30:15] [Render thread/INFO]: [System] [CHAT] Set own game mode to Survival Mode
+[03:30:35] [Render thread/INFO]: Xaero hud session finalized.
+[03:30:35] [Render thread/INFO]: Finalizing world map session...
+[03:30:35] [Server thread/INFO]: GamboCarambo lost connection: Disconnected
+[03:30:35] [Server thread/INFO]: GamboCarambo left the game
+[03:30:35] [Thread-14/INFO]: World map force-cleaned!
+[03:30:35] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[03:30:35] [Render thread/INFO]: World map session finalized.
+[03:30:35] [Server thread/INFO]: Stopping server
+[03:30:35] [Server thread/INFO]: Saving players
+[03:30:35] [Server thread/INFO]: Saving worlds
+[03:30:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Minecraft extremo]'/minecraft:overworld
+[03:30:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Minecraft extremo]'/minecraft:the_nether
+[03:30:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Minecraft extremo]'/minecraft:the_end
+[03:30:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:30:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:30:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:30:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:30:36] [Render thread/INFO]: Stopping JEI
+[03:30:36] [Render thread/INFO]: Stopping JEI
+[03:30:36] [Render thread/INFO]: Sending Runtime Unavailable...
+[03:30:36] [Render thread/INFO]: Stopping JEI GUI
+[03:30:36] [Render thread/INFO]: Sending Runtime Unavailable took 495.1 microseconds
+[03:30:36] [Render thread/INFO]: Stopping worker threads
+[03:30:37] [Render thread/INFO]: Stopping!

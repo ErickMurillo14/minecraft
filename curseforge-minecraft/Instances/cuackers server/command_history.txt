@@ -1,0 +1,50 @@
+/tp GamboCarambo ItezaNoRajin
+/give ItezaNoRajin minecraft:stone_slab 64
+/tp GamboCarambo ItezaNoRajin
+/tp ToToCr GamboCarambo
+/tp GamboCarambo ItezaNoRajin
+/tp GamboCarambo ToToCr
+/tp GamboCarambo Herrera_
+/tp GamboCarambo ToToCr
+/tp GamboCarambo Herrera_
+/tp ToToCr GamboCarambo
+/tp GamboCarambo ToToCr
+/give ItezaNoRajin minecraft:oak_sign 20
+/tp ToToCr GamboCarambo
+/tp GamboCarambo ToToCr
+/tp GamboCarambo Herrera_
+/tp GamboCarambo ToToCr
+/tp GamboCarambo Herrera_
+/tp GamboCarambo ItezaNoRajin
+/tp ToToCr GamboCarambo
+/tp GamboCarambo ToToCr
+/tp Sir_Schumacher GamboCarambo
+/tp GamboCarambo ToToCr
+/tp GamboCarambo Sir_Schumacher
+/give ToToCr minecraft:oak_sign 50
+/give GamboCarambo minecraft:oak_sign 50
+/gamemode creative
+/tp GamboCarambo ToToCr
+/gamemode survival
+/tp GamboCarambo ItezaNoRajin
+/tp GamboCarambo ToToCr
+/tp ItezaNoRajin GamboCarambo
+/gamemode spectator ToToCr
+/gamemode survival ToToCr
+/tp ItezaNoRajin GamboCarambo
+/tp GamboCarambo ToToCr
+/tp ItezaNoRajin GamboCarambo
+/tp GamboCarambo ToToCr
+/tp GamboCarambo ItezaNoRajin
+/tp ItezaNoRajin GamboCarambo
+/tp GamboCarambo Herrera_
+/tp ItezaNoRajin GamboCarambo
+/tp ItezaNoRajin Herrera_
+/tp ItezaNoRajin GamboCarambo
+/tp GamboCarambo Herrera_
+/tp ItezaNoRajin GamboCarambo
+/tp GamboCarambo Herrera_
+/tp GamboCarambo ItezaNoRajin
+/gamemode
+/gamemode creative
+/gamemode survival
